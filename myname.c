@@ -2,6 +2,6 @@
 
 main() {
 
-    printf("邵立宸");
+    printf("邵立宸\");
 }
  
