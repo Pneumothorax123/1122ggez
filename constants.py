@@ -37,7 +37,7 @@ BOARD_UP_MARGIN  = 40
 BOARD_MARGIN     = 2
 
 # Color declarations in the RGB notation
-WHITE    = (0,0,0)
+WHITE    = (210,210,210)
 RED      = (255,50,20)
 GREEN    = (60,255,0)
 BLUE     = (80,0,255)
@@ -45,7 +45,7 @@ ORANGE   = (25,69,0)
 GOLD     = (255,125,0)
 PURPLE   = (100,100,128)
 CYAN     = (0,255,255) 
-BLACK    = (210,210,210)
+BLACK    = (0,0,0)
 
 # Timing constraints
 # Time for the generation of TIME_MOVE_EVENT (ms)
